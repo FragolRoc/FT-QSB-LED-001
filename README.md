@@ -17,7 +17,9 @@ A list of materials used are as follows:
 
 CAD files for the LED housing and PCB will available through this repository and updated as needed.
 
-Installation notes/resources will be added as they are created.
+Installation notes/resources will be added as they are created. 
+
+Old Install Video (Pre-QSB): https://youtu.be/LdAhztDRiCM
 
 Pre-made boards will be available on my website in late April 2021.
 
