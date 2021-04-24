@@ -11,7 +11,7 @@ A list of materials used are as follows:
 - 3mm LED of your choosing
 - 0603 SMT resistor > 370-ohms
 - 3D printed LED housing
-- 1/16th inch acrylic rod light pipe
+- 1/16th inch acrylic rod light pipe (https://www.amazon.com/Plastruct-AR-2H-Clear-Rod-16/dp/B0006O6QXU/)
 - 1/16th inch drill bit
 - (optional: glue)
 
