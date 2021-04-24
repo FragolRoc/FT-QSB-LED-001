@@ -2,6 +2,7 @@
 A QSB for adding LED to model 2 NES/SNES/Famicom consoles
 
 Version - 1.3 (April 23, 2021)
+
 This is my first PCB design and was created as a CAD practice project. Although not needed, this QSB allows you to drive an LED from the underside of the redesigned NES/Av Famicom/SNES. It solders onto the switch's ground pins and terminal posts. Although only ground and one of the switch posts is used for the board, solderable vias are provided to act as an anchor point. The only component that needs to be added to the board is R1 which is a resistor of your choice. Testing shows that a minimum of 370-ohms is required for R1, but you can use anything you have on-hand as long as it's greater than 370-ohms. For reference I use a 1k ohm SMT resistor. Positive and negative pads are labeled for the LED.
 
 A list of materials used are as follows:
