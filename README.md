@@ -4,6 +4,7 @@ A QSB for adding LED to model 2 NES/SNES/Famicom consoles
 EasyEDA Link: https://easyeda.com/fragolroc/ft-led-qsb-for-nes-sns-101
 
 Version - 2.0 (June 8, 2021)
+
 Made beefier grounding planes and increased trace width. New design is on EasyEDA/Open Soure Hardware. Gerber files will be updated later.
 
 Version - 1.3 (April 23, 2021)
