@@ -1,6 +1,8 @@
 # FT-QSB-LED-001
 A QSB for adding LED to model 2 NES/SNES/Famicom consoles
 
+Assembly Video: https://youtu.be/VYcmCFvWq1g
+
 EasyEDA Link: https://easyeda.com/fragolroc/ft-led-qsb-for-nes-sns-101
 
 Version - 2.0 (June 8, 2021)
