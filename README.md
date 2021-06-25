@@ -3,6 +3,11 @@ A QSB for adding LED to model 2 NES/SNES/Famicom consoles
 
 Assembly Video: https://youtu.be/VYcmCFvWq1g
 
+NES-101/AV Famicom Install Video (No-Cut): https://youtu.be/nxbn5jK8ETs
+NES-101/AV Famicom Install Video (Cut/Drill): COMING SOON
+
+SNES Jr./Mini Install Video (Cut/Drill): COMING SOON
+
 EasyEDA Link: https://easyeda.com/fragolroc/ft-led-qsb-for-nes-sns-101
 
 Version - 2.0 (June 8, 2021)
