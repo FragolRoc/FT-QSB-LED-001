@@ -6,7 +6,7 @@ EasyEDA Link: https://easyeda.com/fragolroc/ft-led-qsb-for-nes-sns-101
 
 Assembly Video: https://youtu.be/VYcmCFvWq1g
 
-NES-101/AV Famicom Install Video (No-Cut): https://youtu.be/nxbn5jK8ETs
+NES-101/AV Famicom Install Video (No-Cut): https://youtu.be/nxbn5jK8ETs <br>
 NES-101/AV Famicom Install Video (Cut/Drill): COMING SOON
 
 SNES Jr./Mini Install Video (Cut/Drill): COMING SOON
